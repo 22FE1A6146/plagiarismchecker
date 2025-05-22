@@ -1,6 +1,6 @@
 ﻿# Plagiarism Checker
 
-Sure! Here’s a neat, bullet-point style `README.md` file for your **Plagiarism Checker** project with Windows-friendly commands and structure:
+
 
 ---
 
@@ -141,5 +141,5 @@ This project is under the [MIT License](LICENSE).
 
 ---
 
-If you want, I can prepare this as a ready-to-download file for you. Just let me know!
+
 ```
